@@ -107,8 +107,7 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
-  engineering projects. In his spare time, John likes to eat cotton candy."
+  "這邊會出現在每篇 post 的下方，所以可以放一些作者的描述性內容，或者任何你想放的文字。"
 author_blurb_image: "/img/author.png"
 ##################
 # Social Buttons #
