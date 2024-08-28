@@ -4,16 +4,16 @@
 url: "https://biicafe.github.io/"
 
 # Google tracking id
-google-tracking-id: "UA-XXXXXXXX-X"
+google-tracking-id: False
 
 #############
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Bii Cafe"
+title: "{ Bii Cafe }"
+description: "Blog and website of Bii Cafe."
+keywords: "Bii Cafe"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
