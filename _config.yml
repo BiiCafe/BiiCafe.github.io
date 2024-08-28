@@ -121,6 +121,8 @@ social:
     url: "https://twitter.com/"
   - icon: "rss"
     url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+  - icon: "instagram"
+    url: "https://www.instagram.com/yu_lin1226/"
 ############
 # 404 page #
 ############
