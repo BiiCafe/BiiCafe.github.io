@@ -35,6 +35,7 @@ lines: # You can add HTML Tags in the Text
   - text: "大笨象會跳舞"
   - text: "小猴子會上樹"
   - text: "狐狸會翻跟斗 嘿"
+  - text: "第四句話"
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
