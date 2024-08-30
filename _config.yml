@@ -144,7 +144,7 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   關於我們: "about"
   文章: "latest-post"
-  時間線: "timeline"
+  班級大小事: "timeline"
   聯繫我們: "contact"
 # Exclusion list from the generated _site
 exclude:
