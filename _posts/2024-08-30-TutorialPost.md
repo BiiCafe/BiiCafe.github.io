@@ -1,8 +1,8 @@
 ---
 layout: post
 section-type: post
-has-comments: true
-title: Welcome to { Personal } Jekyll Theme!
+has-comments: false
+title: 測試用標題!
 category: tech
 tags: ["tutorial"]
 ---
