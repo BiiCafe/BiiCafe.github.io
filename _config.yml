@@ -11,8 +11,8 @@ google-tracking-id: False
 #############
 lang: "en"
 author: "Bii Cafe"
-title: "{ Bii Cafe }"
-description: "Blog and website of Bii Cafe."
+title: "Bii's Cafe"
+description: "Welcome to Bii's Cafe."
 keywords: "Bii Cafe"
 favicon: "/img/favicon.ico"
 ################
@@ -30,10 +30,11 @@ loop-count: False # Set False for infinite loop, or set any number for finite lo
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
+# 這邊可以加一些名言佳句，會在網頁上輪替顯示。
 lines: # You can add HTML Tags in the Text
-  - text: "這邊可以放你想要說的話，我之後再教你怎麼弄。"
-  - text: "而且可以放不只一句話，可以兩句話。"
-  - text: "甚至可以放三句話哦!"
+  - text: "大笨象會跳舞"
+  - text: "小猴子會上樹"
+  - text: "狐狸會翻跟斗 嘿"
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -83,6 +84,7 @@ syntax-highlight: True
 ############
 # Timeline #
 ############
+# 如果你需要換圖片，需要上傳圖片到這個資料庫裏面，然後 image 後面的雙引號內的路徑要做更改。 
 events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "Aug 2024 - Today"
@@ -106,8 +108,10 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
+# 每篇分享文章下方，會有作者的簡介，所以看你想放甚麼，先幫你隨便寫一些。
+# 圖片也可以改，一樣上傳到資料庫和改地址。
 author_blurb:
-  "這邊會出現在每篇 post 的下方，所以可以放一些作者的描述性內容，或者任何你想放的文字。"
+  "成功高中國文科老師，人雖不聰明，但友善。"
 author_blurb_image: "/img/author.png"
 ##################
 # Social Buttons #
@@ -121,8 +125,8 @@ social:
     # url: "https://twitter.com/"
   # - icon: "rss"
     # url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
-  - icon: "instagram"
-    url: "https://www.instagram.com/yu_lin1226/"
+  # - icon: "instagram"
+  #   url: "https://www.instagram.com/yu_lin1226/"
 ############
 # 404 page #
 ############
