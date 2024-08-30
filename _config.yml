@@ -90,6 +90,9 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "Aug 2024 - Today"
+    description: "事件三: 可以放一些班級紀錄。"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "Aug 2024 - Today"
     description: "事件二: 可以放一些班級紀錄。"
   - image: "/img/timeline/spidertocat.png"
     date: "Apr 2024 - Aug 2024"
