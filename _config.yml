@@ -142,10 +142,10 @@ err-404-img: "/img/labtocat.png"
 
 # Sections shown in the index page
 pages_list:
-  About: "關於我們"
-  Blog: "latest-post"
-  Timeline: "timeline"
-  Contact: "contact"
+  關於我們: "about"
+  文章: "latest-post"
+  時間線: "timeline"
+  聯繫我們: "contact"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
